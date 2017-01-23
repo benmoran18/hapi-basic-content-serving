@@ -1,0 +1,23 @@
+{
+  "name": "hapi-practice",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ben Moran",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "inert": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmoran18/hapi-basic-content-serving.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benmoran18/hapi-basic-content-serving/issues"
+  },
+  "homepage": "https://github.com/benmoran18/hapi-basic-content-serving#readme",
+  "description": "Basic node.js example using hapi to serve web files"
+}
